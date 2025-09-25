@@ -1,4 +1,4 @@
-# 📚 Books REST API (Task 3)
+# 📚 Books REST API 
 
 A simple REST API built with Node.js and Express to manage a list of books.
 
@@ -22,8 +22,8 @@ node server.js
 ## 📸 Output Screenshots
 
 ### GET /books
-![Books API Output](images/output_task_3.png)
+![Books API Output](images/Output_task_3.png)
 
 ### POST /books
-![Add Book Output](images/output_task_3.1.png)
+![Add Book Output](images/Output_task_3.1.png)
 
