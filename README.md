@@ -20,11 +20,12 @@ cd books-api
 npm install
 node server.js
 
-## 📸 Output Screenshots
 
+## 📸 Screenshot
 ### GET /books
-![Books API Output](images/Output_task_3.png)
+
+![GET /books](Output_task_3.png)
+
 
 ### POST /books
-![Add Book Output](images/Output_task_3.1.png)
-
+![Post /books](Output_task_3.1.png)
