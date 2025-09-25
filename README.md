@@ -12,6 +12,15 @@ A simple REST API built with Node.js and Express to manage a list of books.
 ## 🛠 Tech
 - Node.js
 - Express.js
+## 📸 Screenshot
+### GET /books
+
+![GET /books](Output_task_3.png)
+
+
+### POST /books
+![Post /books](Output_task_3.1.png)
+
 
 ## ▶️ Run Locally
 ```bash
@@ -21,11 +30,3 @@ npm install
 node server.js
 
 
-## 📸 Screenshot
-### GET /books
-
-![GET /books](Output_task_3.png)
-
-
-### POST /books
-![Post /books](Output_task_3.1.png)
